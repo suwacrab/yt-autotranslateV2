@@ -27,7 +27,7 @@
   "host_permissions": [
     "*://*.youtube.com/*"
   ],
-  "version": "1.01",
+  "version": "1.02",
   "manifest_version": 3,
   "name": "Auto Translate for YouTube™ captions",
   "description": "This extension will activate the auto-translate feature of YouTube™ automatically, even if it's not available in the menu. But without stealing your data this time!",
