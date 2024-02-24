@@ -57,7 +57,7 @@
       ],
       "resources": [
         "assets/index.1eb99c87.js",
-        "assets/index.ts.f50f30c3.js"
+        "assets/worker.ts.js"
       ],
       "use_dynamic_url": true
     }
