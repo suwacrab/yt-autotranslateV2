@@ -1,1 +1,1 @@
-import './assets/index.ts.f5f330fb.js';
+import './assets/worker.ts.js';

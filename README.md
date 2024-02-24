@@ -4,7 +4,10 @@ currently works, though all that's needed now is to clean up some of the minifie
 
 ## Installation
 
-#### Manual
+#### From release
+Download a release, unzip it to a folder of your choosing, then go to your web browser's extension settings and choose `Load Packed`. Select the folder you unzipped the extension into and it should appear.
+
+#### From source
 Download the repository (`Code` -> `Download ZIP`), unzip it to a folder of your choosing, then go to your web browser's extension settings and choose `Load Packed`. Select the folder you unzipped the extension into and it should appear.
 
 ## Info
