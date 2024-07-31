@@ -1,7 +1,7 @@
 # Youtube Auto-Translate V2
 Always enables youtube's auto-translate captions option, regardless of video.
-an updated version of the original chrome extension that removes the malware.
-currently works, though all that's needed now is to clean up some of the minified code to make it easier to read.
+
+an updated version of the original chrome extension, but with the malware removed. currently works, though all that's needed now is to clean up some of the minified code to make it easier to read.
 
 ## Installation
 
